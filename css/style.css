@@ -1,0 +1,69 @@
+.header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+.header-nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+.header-nav-item a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+}
+.Project {
+  padding: 20px;
+  background-color: #eee;
+}
+.Project-item-foto {
+  width: 100px;
+  height: 100px;
+}
+.header-container {
+  width: 1600px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+button {
+  color: #ffff;
+  background: #2196f3;
+}
+.first-main-container {
+  background: #2f303a;
+  width: 1600px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+.second-main-container {
+  width: 1170px;
+  height: 286px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+.third-main-container {
+  width: 1170px;
+  height: 386px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+.fourth-main-container {
+  width: 1600px;
+  height: 648px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+.footer-container {
+  width: 1600px;
+  height: 252px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
